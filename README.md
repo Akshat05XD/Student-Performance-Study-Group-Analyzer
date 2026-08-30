@@ -1,9 +1,8 @@
 # Minor Project Report
 ## Student Performance & Study Group Analyzer
 
-**Student Name:** _______________
-**Roll No / Class:** _______________
-**Subject:** Python / Data Analytics / Applied Mathematics
+**Student Name:** Akshat Rawat
+**Tools:** Python / Data Analytics / Applied Mathematics
 
 ---
 
